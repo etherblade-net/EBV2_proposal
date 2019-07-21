@@ -1,5 +1,5 @@
 # EBV2_proposal
-Etherblade.net Ver2” - proposal for “fragmentation support”
+Etherblade.net Ver2 - proposal for “fragmentation support”
 
 Another feature is a “fragmentation support” which is being developed in “Etherblade.net – Ver2” project.
 
@@ -13,4 +13,5 @@ CPU intensive and slow. “Etherblade.net Ver2” proposes original method of as
 rate speed totally within the datapath with zero CPU/Software involvement.
 
 Please watch the video demonstrating this principle here:
+
 [![EtherBlade.net V2 assembler block conceptual model demonstration](https://img.youtube.com/vi/yz3BlAmwClE/0.jpg)](https://www.youtube.com/watch?v=yz3BlAmwClE "EtherBlade.net V2 assembler block conceptual model demonstration.")
